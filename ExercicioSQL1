@@ -1,4 +1,0 @@
-Exercicio:
-https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
-Solução
-Select * from CITY where CountryCode = 'USA' and Population >= 100000
